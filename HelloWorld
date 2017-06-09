@@ -5,3 +5,13 @@ void helloWorld()
    print("Hello OpenSource World!")
    
  }
+
+
+//JAVA
+class HelloWorld{
+
+ public helloworld()
+ {
+     system.out.println("Hello OpenSource World!");
+ }
+}
